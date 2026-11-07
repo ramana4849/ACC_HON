@@ -7,7 +7,6 @@
 
 - Enterprise Structure -> Definition -> Financial Accounting -> Edit,copy,delete and check company code 
 
-````
 example:
 
 from company code: 4001 0R 1404

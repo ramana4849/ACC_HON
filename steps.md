@@ -1,7 +1,7 @@
 we are training on "SAP Transportation management with bn4l " domain of SAP
 till now we are doing hands on pratice
 
-1.created a company code as "AVRC"
+1. created a company code as "AVRC"
 2. created a cost center as "AVRCCOS"
 3. created a profit center  as "AVRCPRO"
 4. Define of Material Management 

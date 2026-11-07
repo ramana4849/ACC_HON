@@ -14,6 +14,8 @@ from company code: 4001 0R 1404
 to company code: THSC or PNRC or AVRC OR RSBP
 
 ```
+
+
 - click create request and edit description 
 - CHANGE COMPANY NAME
 - check company code with OBY6.
@@ -21,7 +23,8 @@ to company code: THSC or PNRC or AVRC OR RSBP
 
 #### Creation of cost and profit center 
 - creation of profit center(ke51)
-   ```
+
+    ```
    example:
    PC: THSPRO
    CO Area:6000
@@ -30,8 +33,12 @@ to company code: THSC or PNRC or AVRC OR RSBP
    PC:11100101
    CO Area:600
    ```
+
+
+
    Assign company code and click save
    - creation of cost center(ks01)
+
    ```
    example:
 
@@ -45,6 +52,7 @@ to company code: THSC or PNRC or AVRC OR RSBP
    CO: 6000
 
    ```
+
    Accounting -> joint venture accounting
 - change company code and profit center and click save option
 

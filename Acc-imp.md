@@ -136,11 +136,9 @@ to company code: THSC or PNRC or AVRC OR RSBP
     - OMS2 to check material of FERT
 4.  creation of material master(mm01)
 5.  Creation of BP (customer and carrier)8999999492
-   - Customer - 0300004187
-   - BP (00000)-> Customer(FLCU00) ->customer (FLCU01) 
-   - carrier - 0300004189
-   - BP(00000) -> Supplier(FLVN00) -> Supplier(FVLVN01) -> Carrier(CRM010)
-   OVKK= SPRO → Sales and Distribution → Basic Functions → Pricing → Pricing Control → Define and Assign Pricing Procedures
+   - Customer - 0300004187 BP (00000)-> Customer(FLCU00) ->customer (FLCU01) 
+   - carrier - 0300004189  BP(00000) -> Supplier(FLVN00) -> Supplier(FVLVN01) -> Carrier(CRM010)
+   - OVKK= SPRO → Sales and Distribution → Basic Functions → Pricing → Pricing Control → Define and Assign Pricing Procedures
 6. Define LIP
     - Control keys (SPRO -> SAP ref IMG -> TM -> INTEGRATION ->LOGISTICS INTEGRATION -> INTERNAL TM)
     - Define LIP(under we have FUBR blank )

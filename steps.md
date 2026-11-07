@@ -32,13 +32,13 @@ till now we are doing hands on pratice
 10. creation of material master(mm01)
      in material master only we define gross weight and net weight as 500 and 450
 11. Creation of BP (customer and carrier)
-        - customer = BP (00000)-> Customer(FLCU00) ->customer (FLCU01)
-        - carrier  =  BP(00000) -> Supplier(FLVN00) -> Supplier(FVLVN01) -> Carrier(CRM010)
+    - customer = BP (00000)-> Customer(FLCU00) ->customer (FLCU01)
+    - carrier  =  BP(00000) -> Supplier(FLVN00) -> Supplier(FVLVN01) -> Carrier(CRM010)
 12. Define Logistics integration profile
-      - creATed LIP as "AVRC" (FUBR AS "AVRC_FUBR")
-       - Define Transportation relevance of sales Document
+     - created LIP as "AVRC" (FUBR AS "AVRC_FUBR")
+     - Define Transportation relevance of sales Document
 13. create fubr as "AVRC_FUBR"
-      - here we give split quantity as 2000
+     - here we give split quantity as 2000
 14. create a sales order 
        - in sold to party we have BP as customer and same as ship to party
 15. we created frieght unit type as "AVRU""

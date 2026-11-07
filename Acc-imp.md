@@ -188,11 +188,11 @@ to company code: THSC or PNRC or AVRC OR RSBP
 
 ###  (Transportation Cockpit)
    1.  Create selection profile 
-    - selection profile (FU_SP_AVRC) (Frieght unit selection profile AVRC)
-    - time related selected attributs (TRSA_AVRC)
-    - geographical selection attributes (GSA_AVRC)
-       we add our source and destination location
-    - additional selection attributes (ASA_AVRC)
+       - selection profile (FU_SP_AVRC) (Frieght unit selection profile AVRC)
+       - time related selected attributs (TRSA_AVRC)
+       - geographical selection attributes (GSA_AVRC)
+        we add our source and destination location
+        additional selection attributes (ASA_AVRC)
        we add Freight unit and freight order for business object selection 
    2. Planning Profile
       - Planning profile(PLAN_PRO_AVRC)(Planning Profile AVRC)(ref:Default)

@@ -28,10 +28,10 @@ till now we are doing hands on pratice
     - created purchase org under AVRC as 2 purchasing and 1 organisation as same above cloums
      - created purchase group under AVRC as 2 purchasing and 3 groups as same above cloumns
  
-9.Activation of ledger plant(omx3,omx2,omx1,CKMSTART)
-10.creation of material master(mm01)
+9. Activation of ledger plant(omx3,omx2,omx1,CKMSTART)
+10. creation of material master(mm01)
      in material master only we define gross weight and net weight as 500 and 450
-11.Creation of BP (customer and carrier)
+11. Creation of BP (customer and carrier)
         - customer = BP (00000)-> Customer(FLCU00) ->customer (FLCU01)
         - carrier  =  BP(00000) -> Supplier(FLVN00) -> Supplier(FVLVN01) -> Carrier(CRM010)
 12. Define Logistics integration profile
@@ -39,7 +39,7 @@ till now we are doing hands on pratice
        - Define Transportation relevance of sales Document
 13. create fubr as "AVRC_FUBR"
       - here we give split quantity as 2000
-14.create a sales order 
+14. create a sales order 
        - in sold to party we have BP as customer and same as ship to party
 15. we created frieght unit type as "AVRU""
       - edit fubr and go to preivously created fubr in that document type keep frieght unit type "AVRU"
@@ -47,7 +47,7 @@ till now we are doing hands on pratice
       - here we divide frieght unit types as above mentioned split quantity and give qauntity as 10 
       - so that 500(gross weight)*10(quantity)=5000 weight 
       - it divided into 3 frieght unit types as 2000,2000,1000beacise we give split quantity as 2000
-16.created frieght order type as "AVRO"
+16. created frieght order type as "AVRO"
 17. create means of transport and resources of their means of transport 
        - mot= TRUCK_AVRC
        - resouces as BOXTRUCK,FLATBED,TANK 3 types are connected to Means of tarnsport "TRUCK_AVRC".
